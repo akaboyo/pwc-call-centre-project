@@ -20,3 +20,4 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+![Call-Centre-snippet](https://github.com/user-attachments/assets/fbc0c14d-5bb3-45fc-997f-f5842203df00)
