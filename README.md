@@ -42,21 +42,18 @@ Dataset:
 
 ![ERD1](https://github.com/user-attachments/assets/714967e9-b6fa-470a-a58a-afd52e8155dc)
 
+## Data Analysis:
 
+The following DAX measures were created for this analysis :
 
+- MaxSatisfactionRating = MAX(Sheet1[Satisfaction rating])
+- SatisfactionRating Target = 4.5
+- Total Calls Answered = CALCULATE(COUNTROWS('Sheet1'),'Sheet1'[Answered (Y/N)] = "Y")
+- Total Calls Resolved = CALCULATE(COUNTROWS('Sheet1'),'Sheet1'[Resolved] = "Y")
+- Total Calls Unresolved = CALCULATE(COUNTROWS('Sheet1'),'Sheet1'[Resolved] = "N")
 
+## Data Visualization (Dashboard) :
 
-
-
-
-
-
-
-
-
-
-
-
-
+Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
 ![Call-Centre-snippet](https://github.com/user-attachments/assets/fbc0c14d-5bb3-45fc-997f-f5842203df00)
