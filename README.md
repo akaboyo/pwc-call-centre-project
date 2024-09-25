@@ -1,5 +1,6 @@
 # PWC CALL CENTRE PROJECT
 
+![Call centre logo](https://github.com/user-attachments/assets/cb64bf91-796c-4db1-8792-0c7f8daa9ceb)
 
 ## OVERVIEW
 
