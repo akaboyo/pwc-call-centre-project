@@ -76,4 +76,25 @@ From the call center analysis dashboard, several insights can be gathered. Here 
 - Average Satisfaction Rate: The overall customer satisfaction rate is 3.45, which is below the target of 5. This indicates an area for improvement in customer service.
 - Daily Average Satisfaction: The line chart on the top right shows that satisfaction fluctuates over time, but no clear upward or downward trend is noticeable. The performance remains consistently below the target throughout the period.
 
+### Call Volume
+- Total Number of Calls Answered: A total of 4,054 calls were answered during the analysis period. This number could be used to measure the workload and capacity of the call center.
+- Monthly Breakdown: A donut chart shows that the majority of the calls were answered in January (35.89%) and February (32.02%), while March saw fewer calls. This seasonal or monthly variation could imply higher demand at the start of the year.
 
+### Resolution Rate
+- Resolved vs. Unresolved Calls: Out of the total calls, 3,646 were resolved, and 408 remained unresolved. The unresolved call rate (around 10%) indicates a need to investigate why these calls aren't getting resolved to improve service quality.
+- Day of Week Performance: Calls are most frequently resolved on Tuesday and Friday, while the weekend sees fewer resolutions. This suggests that staffing or workload distribution might vary across days.
+
+### Agent Performance
+- Individual Agent Metrics: The table breaks down performance by agent, showing:
+- Total Calls Answered: Agents such as Jim (536 calls) and Dan (523 calls) handled the highest number of calls.
+- Resolution Rate: Despite answering fewer calls, agents like Becky and Stewart are resolving the majority of their calls, which highlights their efficiency.
+- Speed of Answer: There’s some variability in how quickly agents answer calls, with Becky being the fastest at 52 seconds and Jim being the slowest at 66 seconds.
+- Satisfaction: Martha and Stewart consistently receive the highest satisfaction ratings, indicating better performance in customer handling.
+
+### Operational Bottlenecks
+The average speed of answer across agents varies from 52 to 69 seconds, which shows inconsistency in how quickly customers are being attended to. Agents with higher call volumes tend to have slower response times.
+
+## Conclusion
+- Improvement Areas: Customer satisfaction is below the target, and some agents are slower to answer calls. Investigating what affects customer satisfaction and call resolution (e.g., agent training, issue complexity) could help improve these metrics.
+- Agent Performance: Some agents are more efficient at resolving calls, which could be leveraged to mentor others or optimize the call center’s processes.
+- Call Distribution: There’s an uneven distribution of call volumes across days and agents. A more balanced workload could improve both speed of answer and overall customer satisfaction.
