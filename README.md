@@ -1,6 +1,7 @@
 # PWC CALL CENTRE PROJECT
 
-## PROJECT BACKGROUND
+
+## OVERVIEW
 
 The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
 
@@ -8,7 +9,7 @@ At PwC, we are working with other organisations across the world, building on ou
 
 We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning a variety of self-service tools and coding languages and applying these skills across our business.
 
-## TASK
+## PROJECT TASK
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
@@ -19,5 +20,16 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+
+
+
+
+
+
+
+
+
+
 
 ![Call-Centre-snippet](https://github.com/user-attachments/assets/fbc0c14d-5bb3-45fc-997f-f5842203df00)
