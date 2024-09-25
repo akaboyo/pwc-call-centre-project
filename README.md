@@ -52,10 +52,28 @@ The following DAX measures were created for this analysis :
 - Total Calls Resolved = CALCULATE(COUNTROWS('Sheet1'),'Sheet1'[Resolved] = "Y")
 - Total Calls Unresolved = CALCULATE(COUNTROWS('Sheet1'),'Sheet1'[Resolved] = "N")
 
-## Data Visualization (Dashboard) :
+## Data Visualization (Dashboard) 
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
 ![Call-Centre-snippet](https://github.com/user-attachments/assets/fbc0c14d-5bb3-45fc-997f-f5842203df00)
+
+### Key Metrics
+- KPI card: This shows an Average Customer Satisfaction Rate of 3.45
+- Total calls answered = 4054
+- Total calls resolved = 3646
+- Total calls unresolved = 408
+  
+### Interactive Elements
+
+Slicers for Agents, Months and Topics were added so that users can drill down into specific subsets of the data.
+
+## INSIGHTS
+
+From the call center analysis dashboard, several insights can be gathered. Here are some key observations based on the visual elements:
+
+### Customer Satisfaction Trends
+- Average Satisfaction Rate: The overall customer satisfaction rate is 3.45, which is below the target of 5. This indicates an area for improvement in customer service.
+- Daily Average Satisfaction: The line chart on the top right shows that satisfaction fluctuates over time, but no clear upward or downward trend is noticeable. The performance remains consistently below the target throughout the period.
 
 
