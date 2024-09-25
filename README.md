@@ -85,7 +85,7 @@ From the call center analysis dashboard, several insights can be gathered. Here 
 - Day of Week Performance: Calls are most frequently resolved on Tuesday and Friday, while the weekend sees fewer resolutions. This suggests that staffing or workload distribution might vary across days.
 
 ### Agent Performance
-- Individual Agent Metrics: The table breaks down performance by agent, showing:
+#### Individual Agent Metrics: The table breaks down performance by agent, showing:
 - Total Calls Answered: Agents such as Jim (536 calls) and Dan (523 calls) handled the highest number of calls.
 - Resolution Rate: Despite answering fewer calls, agents like Becky and Stewart are resolving the majority of their calls, which highlights their efficiency.
 - Speed of Answer: There’s some variability in how quickly agents answer calls, with Becky being the fastest at 52 seconds and Jim being the slowest at 66 seconds.
