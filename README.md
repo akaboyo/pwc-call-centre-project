@@ -22,7 +22,11 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+## Datasource :
 
+The dataset used for this task was provided by [Pwc](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) :
+
+Dataset: [Call Centre Trends](https://github.com/yogeshkasar778/PWC_task-Call_Centre_trends-dashboard/blob/main/01%20Call-Center-Dataset.xlsx)
 
 
 
