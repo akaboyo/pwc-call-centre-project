@@ -100,4 +100,4 @@ The average speed of answer across agents varies from 52 to 69 seconds, which sh
 - Agent Performance: Some agents are more efficient at resolving calls, which could be leveraged to mentor others or optimize the call center’s processes.
 - Call Distribution: There’s an uneven distribution of call volumes across days and agents. A more balanced workload could improve both speed of answer and overall customer satisfaction.
 
-View the report [here]
+View the report [here](https://app.powerbi.com/view?r=eyJrIjoiZDBiYjgwMTgtM2NlZi00ZmY5LWFlYzAtMmYyNzYyMTI3MTE5IiwidCI6ImFlNmFhZDgzLWRmNmYtNDkwZi1iMTU5LWNhZDVjNjUyYjhmMCJ9)
