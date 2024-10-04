@@ -2,6 +2,7 @@
 
 ![Call centre logo](https://github.com/user-attachments/assets/cb64bf91-796c-4db1-8792-0c7f8daa9ceb)
 
+
 ## OVERVIEW
 
 The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
@@ -98,3 +99,5 @@ The average speed of answer across agents varies from 52 to 69 seconds, which sh
 - Improvement Areas: Customer satisfaction is below the target, and some agents are slower to answer calls. Investigating what affects customer satisfaction and call resolution (e.g., agent training, issue complexity) could help improve these metrics.
 - Agent Performance: Some agents are more efficient at resolving calls, which could be leveraged to mentor others or optimize the call center’s processes.
 - Call Distribution: There’s an uneven distribution of call volumes across days and agents. A more balanced workload could improve both speed of answer and overall customer satisfaction.
+
+View the report [here]
