@@ -95,7 +95,7 @@ From the call center analysis dashboard, several insights can be gathered. Here 
 ### Operational Bottlenecks
 The average speed of answer across agents varies from 52 to 69 seconds, which shows inconsistency in how quickly customers are being attended to. Agents with higher call volumes tend to have slower response times.
 
-## Conclusion
+## Conclusion/Recommendations
 - Improvement Areas: Customer satisfaction is below the target, and some agents are slower to answer calls. Investigating what affects customer satisfaction and call resolution (e.g., agent training, issue complexity) could help improve these metrics.
 - Agent Performance: Some agents are more efficient at resolving calls, which could be leveraged to mentor others or optimize the call center’s processes.
 - Call Distribution: There’s an uneven distribution of call volumes across days and agents. A more balanced workload could improve both speed of answer and overall customer satisfaction.
