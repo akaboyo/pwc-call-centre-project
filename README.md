@@ -5,23 +5,16 @@
 
 ## OVERVIEW
 
-The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
-
-At PwC, we are working with other organisations across the world, building on our work with clients and on upskilling our 276,000 people. Still, more must be done if we are to ensure everyone has the opportunity to learn, work and participate in the digital world. This is at the heart of our purpose.
-
-We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning a variety of self-service tools and coding languages and applying these skills across our business.
+This project was developed as part of the **PwC Switzerland Data Analytics Virtual Case Experience**. The goal was to create an interactive **call centre dashboard in Power BI** that visualises key performance indicators (KPIs) and uncovers insights to support operational decisions for a telecom client.
 
 ## PROJECT TASK
-It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. 
-Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+Create a Power BI dashboard that reflects the following call centre metrics:
 
-Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
-
-- Overall customer satisfaction
-- Overall calls answered/abandoned
-- Calls by time
-- Average speed of answer
-- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+- Overall customer satisfaction  
+- Total calls answered vs abandoned  
+- Call volumes by time and date  
+- Average speed of answer  
+- Agent performance (e.g., average handle time vs calls answered) 
 
 ## Datasource :
 
@@ -64,40 +57,22 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 - Total calls answered = 4054
 - Total calls resolved = 3646
 - Total calls unresolved = 408
-  
-### Interactive Elements
-
-Slicers for Agents, Months and Topics were added so that users can drill down into specific subsets of the data.
+- Interactive Slicers for Agents, Months and Topics filters for drilling down into specific subsets of the data.
 
 ## INSIGHTS
+The Power BI visuals reveal the following:
 
-From the call center analysis dashboard, several insights can be gathered. Here are some key observations based on the visual elements:
-
-### Customer Satisfaction Trends
-- Average Satisfaction Rate: The overall customer satisfaction rate is 3.45, which is below the target of 5. This indicates an area for improvement in customer service.
-- Daily Average Satisfaction: The line chart on the top right shows that satisfaction fluctuates over time, but no clear upward or downward trend is noticeable. The performance remains consistently below the target throughout the period.
-
-### Call Volume
-- Total Number of Calls Answered: A total of 4,054 calls were answered during the analysis period. This number could be used to measure the workload and capacity of the call center.
-- Monthly Breakdown: A donut chart shows that the majority of the calls were answered in January (35.89%) and February (32.02%), while March saw fewer calls. This seasonal or monthly variation could imply higher demand at the start of the year.
-
-### Resolution Rate
-- Resolved vs. Unresolved Calls: Out of the total calls, 3,646 were resolved, and 408 remained unresolved. The unresolved call rate (around 10%) indicates a need to investigate why these calls aren't getting resolved to improve service quality.
-- Day of Week Performance: Calls are most frequently resolved on Tuesday and Friday, while the weekend sees fewer resolutions. This suggests that staffing or workload distribution might vary across days.
-
-### Agent Performance
-#### Individual Agent Metrics: The table breaks down performance by agent, showing:
-- Total Calls Answered: Agents such as Jim (536 calls) and Dan (523 calls) handled the highest number of calls.
-- Resolution Rate: Despite answering fewer calls, agents like Becky and Stewart are resolving the majority of their calls, which highlights their efficiency.
-- Speed of Answer: There’s some variability in how quickly agents answer calls, with Becky being the fastest at 52 seconds and Jim being the slowest at 66 seconds.
-- Satisfaction: Martha and Stewart consistently receive the highest satisfaction ratings, indicating better performance in customer handling.
-
-### Operational Bottlenecks
-The average speed of answer across agents varies from 52 to 69 seconds, which shows inconsistency in how quickly customers are being attended to. Agents with higher call volumes tend to have slower response times.
+- **Customer Satisfaction:** Average rating ~3.45, below target, pointing to service experience gaps.  
+- **Volume Trends:** Most calls were answered in January and February; March saw lower demand.  
+- **Resolution Rates:** Approximately 90% of answered calls were resolved, indicating solid issue handling.  
+- **Agent Performance:** Some agents resolve more calls but take longer to answer, others answer quickly with variable outcomes.  
+- **Speed of Answer:** Variability across agents suggests opportunities for training or process improvements. 
 
 ## Conclusion/Recommendations
-- Improvement Areas: Customer satisfaction is below the target, and some agents are slower to answer calls. Investigating what affects customer satisfaction and call resolution (e.g., agent training, issue complexity) could help improve these metrics.
-- Agent Performance: Some agents are more efficient at resolving calls, which could be leveraged to mentor others or optimize the call center’s processes.
-- Call Distribution: There’s an uneven distribution of call volumes across days and agents. A more balanced workload could improve both speed of answer and overall customer satisfaction.
+Use visual trends and metrics to:
 
-View the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZDBiYjgwMTgtM2NlZi00ZmY5LWFlYzAtMmYyNzYyMTI3MTE5IiwidCI6ImFlNmFhZDgzLWRmNmYtNDkwZi1iMTU5LWNhZDVjNjUyYjhmMCJ9)
+- Investigate drivers of lower satisfaction (e.g., slow response, specific topics).
+- Tailor agent support and coaching based on performance patterns.
+- Align staffing with peak periods to reduce wait times.
+
+View dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZDBiYjgwMTgtM2NlZi00ZmY5LWFlYzAtMmYyNzYyMTI3MTE5IiwidCI6ImFlNmFhZDgzLWRmNmYtNDkwZi1iMTU5LWNhZDVjNjUyYjhmMCJ9)
