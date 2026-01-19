@@ -76,3 +76,9 @@ Use visual trends and metrics to:
 - Align staffing with peak periods to reduce wait times.
 
 View dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZDBiYjgwMTgtM2NlZi00ZmY5LWFlYzAtMmYyNzYyMTI3MTE5IiwidCI6ImFlNmFhZDgzLWRmNmYtNDkwZi1iMTU5LWNhZDVjNjUyYjhmMCJ9)
+
+## Tools & Technologies
+
+- Microsoft Power BI Desktop  
+- Power Query  
+- DAX for calculation measures
